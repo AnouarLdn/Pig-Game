@@ -11,7 +11,7 @@ The first player to score 100 or more points wins.
 
 ![Image of Calculator](https://github.com/AnouarLdn/Pig-Game/blob/master/Screenshot_Pig_Game.png)
 
-To access the Pig Game click here: https://houseofhaidary-calculator.netlify.app
+To access the Pig Game click here: https://pig-game.houseofhaidary.com/
 
 Or look at the following steps
 
